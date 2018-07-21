@@ -1,2 +1,2 @@
-print("Hello World");
-print("Hello guys");
+print("Hello World;");
+print("Hello guys;");
